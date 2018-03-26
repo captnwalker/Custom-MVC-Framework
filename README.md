@@ -58,4 +58,8 @@ public
 
 ---
 
-#### License *MIT*
+#### License
+
+>MIT
+
+##### *March 2018*
