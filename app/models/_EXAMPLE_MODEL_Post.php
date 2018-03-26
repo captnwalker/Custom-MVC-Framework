@@ -1,4 +1,5 @@
 <?php
+    // This is an example only. Change class names and refactor to suite your project
     class Post {
         private $db;
 
